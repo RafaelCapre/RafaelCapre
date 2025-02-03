@@ -1,14 +1,3 @@
-# 👋 Hello There!
-
-Welcome to my GitHub! Here you'll find my projects focused on cloud security and infrastructure. I love sharing practical labs and content to strengthen the security of cloud environments.
-
----
-
-## 🚀 About Me:
-- 🛡️ **SRE and Cloud Security Specialist**
-
----
-
 ## 📂 Featured Projects:
 - 🛠️ **[AKS GitOps Security](https://github.com/RafaelCapre/aks-gitops-security):**
   Managing RBAC in AKS with FluxCD.
