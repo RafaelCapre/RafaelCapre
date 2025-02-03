@@ -10,9 +10,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCapre&layout=compact&theme=radical)
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelCapre&show_icons=true&theme=radical)
 
-![GitHub followers](https://img.shields.io/github/followers/RafaelCapre?style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RafaelCapre)
-
 ---
 
 ## 📫 Contact Me:
