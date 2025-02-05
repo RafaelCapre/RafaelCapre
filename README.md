@@ -1,7 +1,7 @@
 ## 📂 Featured Projects:
-- 🛠️ **[AKS GitOps Security](https://github.com/RafaelCapre/aks-gitops-security):**
+- **[AKS GitOps Security](https://github.com/RafaelCapre/aks-gitops-security):**
   Managing RBAC in AKS with FluxCD.
-- 🔒 **[Security Labs](https://github.com/RafaelCapre/security-labs):**
+- **[Security Labs](https://github.com/RafaelCapre/security-labs):**
   Step-by-step guides to protect clusters against ransomware. (in progress)
 
 ### 🛠️ **Tech Stack & Tools**
